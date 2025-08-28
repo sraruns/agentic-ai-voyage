@@ -40,7 +40,8 @@ pain_points_solution = response.choices[0].message.content
 print(f"Pain points solution: {pain_points_solution}")
 
 
-
+from IPython.display import display, Markdown
+display(Markdown(pain_points_solution))
 
 
 

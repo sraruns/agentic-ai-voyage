@@ -2,3 +2,6 @@ python-dotenv
 openai
 pyyaml
 google-generativeai
+gradio
+pydantic
+pypdf
