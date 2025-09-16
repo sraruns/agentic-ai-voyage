@@ -1,0 +1,7 @@
+# add all the files that are not needed to be committed which are currently in the project
+.env
+.DS_Store
+.ipynb_checkpoints
+.venv
+
+.voyage-venv
