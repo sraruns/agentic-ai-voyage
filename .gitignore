@@ -3,5 +3,4 @@
 .DS_Store
 .ipynb_checkpoints
 .venv
-
-.voyage-venv
+voyage-venv-3.10/

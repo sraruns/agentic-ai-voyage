@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "./voyage-venv-3.10/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.filter": [
+        {
+            "type": "notebook",
+            "path": "voyage-venv-3.10"
+        }
+    ]
+}
