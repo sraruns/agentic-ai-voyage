@@ -5,13 +5,12 @@ description = "AI Voyage project for agentic AI development"
 authors = [
     {name = "Your Name", email = "your.email@example.com"}
 ]
-readme = "README.md"
+# readme = "README.md"
 requires-python = ">=3.10,<3.11"
 dependencies = [
     "python-dotenv",
     "openai",
     "ipykernel",
-    "tensorflow-cpu==2.12.0",
     "agents",
     "langchain",
     "pandas",
@@ -29,3 +28,4 @@ dev-dependencies = [
     "matplotlib",
     "seaborn"
 ]
+python = "3.10"
