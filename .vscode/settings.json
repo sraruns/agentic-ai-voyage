@@ -1,4 +1,11 @@
 {
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 140,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
     "python.defaultInterpreterPath": "./voyage-venv-3.10/Scripts/python.exe",
     "python.terminal.activateEnvironment": true
 }

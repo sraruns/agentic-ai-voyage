@@ -5,3 +5,5 @@ google-generativeai
 gradio
 pydantic
 pypdf
+openai-agents
+sib-api-v3-sdk

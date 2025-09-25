@@ -16,7 +16,8 @@ dependencies = [
     "pandas",
     "numpy",
     "jupyter",
-    "notebook"
+    "notebook",
+    "sib-api-v3-sdk"
 ]
 
 [build-system]
